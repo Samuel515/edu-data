@@ -1707,9 +1707,7 @@ footer li{
 .vsop{
     font-family: gilroy-medium;
     font-size: 18px;
-    display: flex;
-    flex-direction: column;
-    padding: 30px 150px 150px 200px;
+    padding: 5%;
 }
 .ggyt{
     border-radius: 30px;
@@ -1728,7 +1726,7 @@ footer li{
 .jjs{
     display: grid;
     grid-template-columns: repeat(3 , 1fr);
-    gap: 80px;
+    gap: 2%;
     margin-top: 70px;
     margin-bottom: 100px;
 }
@@ -1937,7 +1935,6 @@ footer li{
     background-blend-mode: overlay;
     background-size: 100%;
     padding: 20px 60px;
-    height: 455px;
 }
 .ftc{
     align-items: flex-start;
@@ -1951,7 +1948,7 @@ footer li{
     margin-left: 300px;
 }
 .nct{
-    padding: 80px 230px 160px 230px;
+    padding: 5%;
     flex-direction: column;
 }
 .mrf{
