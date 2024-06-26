@@ -2121,6 +2121,7 @@ a{
 }
 .skk{
     margin-top: 100px;
+    flex-direction: column;
 }
 .vsab{
     margin-top: 10px;
