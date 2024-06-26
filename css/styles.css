@@ -1215,7 +1215,7 @@ footer li{
 /* data02 page */
 
 #pix{
-    padding: 100px 150px;
+    padding: 5%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1266,7 +1266,7 @@ footer li{
     flex-direction: column;
     box-shadow: 0px 3px 4px rgb(190, 190, 190);
     padding-bottom: 50px;
-    width: 1680px;
+    width: 95%;
 }
 .dme{
     font-size: 15.08px;
@@ -1415,7 +1415,7 @@ footer li{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 30px 0 30px;
+    padding: 0 2%;
 }
 .gdw{
     width: 180px;
@@ -2086,7 +2086,7 @@ a{
     right: 50px;
 }
 .ruo{
-    top: 67px;
+    top: 35px;
     left: 36px;
 }
 .rmb{
