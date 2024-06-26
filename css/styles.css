@@ -381,7 +381,7 @@ body > section.sst > div:nth-child(2) > ul > li:nth-child(5){
     justify-content: center;
     flex-direction: column;
     background-color: #F1F5F9;
-    width: 100%;
+    padding: 5%;
 }
 .qph{
     text-align: center;
