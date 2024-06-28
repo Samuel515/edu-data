@@ -2248,3 +2248,194 @@ td{
     box-shadow: 0px 5px 2px rgb(207, 207, 207);
     border-radius: 100px;
 }
+
+/* about us page */
+
+.abt{
+    font-family: gilroy-medium;
+    background-color: #121737;
+    height: 300px;
+    color: #fff;
+    font-size: 5rem;
+}
+.vb{
+    background-color: #121737;
+}
+.dfl{
+    background-color: #F1F5F9;
+    /* padding: 5%; */
+    height: 100vh;
+}
+
+/* profile page */
+
+#nsg{
+    background-color: whitesmoke;
+    padding: 28px;
+    display: grid;
+    grid-template-columns: 308px 1fr;
+    gap: 50px;
+}
+#wqps{
+    background: linear-gradient(to right, #15336C , #172253);
+    width: 308px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+#wqps  > h1{
+    font-family: gilroy-extrabold;
+    font-size: 26.74px;
+    font-weight: 400;
+    line-height: 33.42px;
+    margin-left: 12px;
+}
+#wqps  > img{
+    margin-left: 35px;
+}
+#tfb{
+    background: linear-gradient(to right, #15336C , #172253);
+    width: 308px;
+    margin-top: 50px;
+    border-radius: 10px;
+    color: white;
+    height: 800px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    position: relative;
+}
+.wu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: gilroy-semibold;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25.73px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, 
+    color 0.3s ease-in-out, 
+    padding 0.3s ease-in-out, 
+    width 0.3s ease-in-out, 
+    height 0.3s ease-in-out, 
+    border-radius 0.3s ease-in-out;
+}
+.wu:hover{
+    color: #FFAB40;
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 70px;
+    width: auto;
+    border-radius: 50px;
+    padding: 0 10px;
+}
+.eud{
+    margin-left: 10px;
+}
+.ehp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 20px;
+    left: 70px;
+}
+.cdb{
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+.nx{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to right, #15336C , #172253);
+    color: white;
+    border-radius: 10px;
+    padding: 18px 0 25px 55px;
+}
+.jk{
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 57px
+}
+.nx > div > h1 > i{
+    font-family: gilroy-lightitalic;
+}
+.nx > div > h1{
+    margin-bottom: 10px;
+}
+.nx > div > h1 > span{
+    font-family: gilroy-semibold;
+}
+.nx > div > p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+    width: 697px;
+    font-family: gilroy-light;
+    margin-top: 0;
+}
+.nx > div > p > .kl{
+    font-family: gilroy-medium;
+}
+.eib{
+    color: #FFAB00;
+}
+#gta{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 2px solid #00000060;
+}
+.dce{
+    display: flex;
+    align-items: baseline;
+}
+.dce > h2{
+    color: #FFAB00;
+    font-family: gilroy-semibold;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 57.2px;
+    margin-bottom: 0;
+    margin-right: 25px;
+}
+.dce > p{
+    margin-bottom: 0;
+    font-family: gilroy-semibold;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 57.2px;
+    margin-left: 20px;
+}
+.nmz > select{
+    height: 45px;
+    width: 260px;
+    text-indent: 50px;
+    font-size: 16px;
+    font-family: gilroy-medium;
+    background: url("../resources/icons/search02.png") no-repeat 95% center;
+    background-position: 2px center;
+}
+.cust{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-size: 1em;
+    padding-right: 1.5em;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.gfr{
+    background-color: #D9D9D9;
+}
+.custw{
+    background: url(../resources/icons/dd01.png) no-repeat 95% center;
+}
