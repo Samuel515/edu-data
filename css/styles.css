@@ -2451,6 +2451,7 @@ td{
     font-family: gilroy-medium;
     background: url("../resources/icons/search02.png") no-repeat 95% center;
     background-position: 2px center;
+    margin-bottom: 20px;
 }
 .cust{
     appearance: none;
@@ -2550,4 +2551,13 @@ td{
 .br{
     font-size: 15px;
     font-family: gilroy-light;
+}
+
+/* leaderboard page */
+
+.nsg{
+    background-color: whitesmoke;
+    padding: 28px;
+    display: flex;
+    gap: 50px;
 }
