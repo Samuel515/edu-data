@@ -2545,6 +2545,7 @@ td{
 }
 .bh{
     flex-direction: column;
+    margin-right: 20px;
 }
 .br{
     font-size: 15px;
